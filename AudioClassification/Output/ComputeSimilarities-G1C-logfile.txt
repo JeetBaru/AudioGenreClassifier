@@ -1,0 +1,525 @@
+22-Nov-2016 11:31:04
+-> ComputeSimilarities called.
+   Input directory: C:\ecen5322\AudioClassification\Output/
+         (writing log-file to input directory)
+   Output file: C:\ecen5322\AudioClassification\Output\DistanceMatrix.txt
+start computing distances ...
+16468/264628 CS est rem 0m, est tot 0m
+38500/264628 CS est rem 0.20191m, est tot 0.23628m
+60787/264628 CS est rem 0.23055m, est tot 0.2993m
+82522/264628 CS est rem 0.22643m, est tot 0.32903m
+104733/264628 CS est rem 0.20913m, est tot 0.34611m
+127078/264628 CS est rem 0.18491m, est tot 0.35575m
+148225/264628 CS est rem 0.16095m, est tot 0.3659m
+170667/264628 CS est rem 0.13133m, est tot 0.36987m
+192997/264628 CS est rem 0.1011m, est tot 0.3735m
+214858/264628 CS est rem 0.071002m, est tot 0.37751m
+236898/264628 CS est rem 0.039812m, est tot 0.37992m
+258523/264628 CS est rem 0.0088263m, est tot 0.38252m
+done. exiting ...
+22-Nov-2016 11:31:29
+22-Nov-2016 16:58:42
+-> ComputeSimilarities called.
+   Input directory: C:\ecen5322\AudioClassification\Output/
+         (writing log-file to input directory)
+   Output file: C:\ecen5322\AudioClassification\Output\DistanceMatrix.txt
+start computing distances ...
+18577/264628 CS est rem 0m, est tot 0m
+41850/264628 CS est rem 0.18438m, est tot 0.21901m
+64600/264628 CS est rem 0.21369m, est tot 0.2827m
+87318/264628 CS est rem 0.20888m, est tot 0.31175m
+110338/264628 CS est rem 0.19082m, est tot 0.32728m
+132787/264628 CS est rem 0.16936m, est tot 0.33993m
+155350/264628 CS est rem 0.14362m, est tot 0.34779m
+178308/264628 CS est rem 0.11523m, est tot 0.35325m
+201082/264628 CS est rem 0.08592m, est tot 0.35779m
+223300/264628 CS est rem 0.056585m, est tot 0.36231m
+244927/264628 CS est rem 0.027295m, est tot 0.36662m
+done. exiting ...
+22-Nov-2016 16:59:07
+22-Nov-2016 17:48:06
+-> ComputeSimilarities called.
+   Input directory: C:\ecen5322\AudioClassification\Output/
+         (writing log-file to input directory)
+   Output file: C:\ecen5322\AudioClassification\Output\DistanceMatrix.txt
+start computing distances ...
+17172/264628 CS est rem 0m, est tot 0m
+39843/264628 CS est rem 0.18953m, est tot 0.22313m
+60148/264628 CS est rem 0.23107m, est tot 0.29904m
+76437/264628 CS est rem 0.25198m, est tot 0.35432m
+97875/264628 CS est rem 0.23294m, est tot 0.36965m
+119098/264628 CS est rem 0.20843m, est tot 0.37901m
+140377/264628 CS est rem 0.18118m, est tot 0.38586m
+161797/264628 CS est rem 0.15177m, est tot 0.39058m
+183222/264628 CS est rem 0.12114m, est tot 0.3938m
+204597/264628 CS est rem 0.090012m, est tot 0.39678m
+225847/264628 CS est rem 0.058447m, est tot 0.39881m
+247237/264628 CS est rem 0.026306m, est tot 0.40026m
+done. exiting ...
+22-Nov-2016 17:48:33
+22-Nov-2016 18:07:18
+-> ComputeSimilarities called.
+   Input directory: C:\ecen5322\AudioClassification\Output/
+         (writing log-file to input directory)
+   Output file: C:\ecen5322\AudioClassification\Output\DistanceMatrix.txt
+start computing distances ...
+17875/264628 CS est rem 0m, est tot 0m
+40513/264628 CS est rem 0.18728m, est tot 0.22114m
+62698/264628 CS est rem 0.21891m, est tot 0.28688m
+84928/264628 CS est rem 0.21545m, est tot 0.31727m
+106987/264628 CS est rem 0.19953m, est tot 0.33495m
+129168/264628 CS est rem 0.17752m, est tot 0.34679m
+151578/264628 CS est rem 0.1513m, est tot 0.35417m
+173677/264628 CS est rem 0.1241m, est tot 0.36108m
+195622/264628 CS est rem 0.095447m, est tot 0.36602m
+217963/264628 CS est rem 0.065234m, est tot 0.36992m
+240318/264628 CS est rem 0.034248m, est tot 0.37279m
+262798/264628 CS est rem 0.0025928m, est tot 0.37473m
+done. exiting ...
+22-Nov-2016 18:07:43
+22-Nov-2016 18:25:24
+-> ComputeSimilarities called.
+   Input directory: C:\ecen5322\AudioClassification\Output/
+         (writing log-file to input directory)
+   Output file: C:\ecen5322\AudioClassification\Output\DistanceMatrix.txt
+start computing distances ...
+17172/264628 CS est rem 0m, est tot 0m
+39172/264628 CS est rem 0.19785m, est tot 0.23223m
+60787/264628 CS est rem 0.22793m, est tot 0.2959m
+83125/264628 CS est rem 0.22233m, est tot 0.32416m
+105298/264628 CS est rem 0.20569m, est tot 0.34163m
+127602/264628 CS est rem 0.18233m, est tot 0.35213m
+149668/264628 CS est rem 0.15662m, est tot 0.36053m
+171532/264628 CS est rem 0.12904m, est tot 0.3668m
+193752/264628 CS est rem 0.099265m, est tot 0.37062m
+216112/264628 CS est rem 0.068519m, est tot 0.37373m
+238293/264628 CS est rem 0.037502m, est tot 0.37682m
+260800/264628 CS est rem 0.0054751m, est tot 0.37839m
+done. exiting ...
+22-Nov-2016 18:25:49
+22-Nov-2016 18:31:39
+-> ComputeSimilarities called.
+   Input directory: C:\ecen5322\AudioClassification\Output/
+         (writing log-file to input directory)
+   Output file: C:\ecen5322\AudioClassification\Output\DistanceMatrix.txt
+start computing distances ...
+12933/264628 CS est rem 0m, est tot 0m
+31042/264628 CS est rem 0.26064m, est tot 0.29527m
+49132/264628 CS est rem 0.30269m, est tot 0.3717m
+68377/264628 CS est rem 0.29524m, est tot 0.39811m
+89692/264628 CS est rem 0.26615m, est tot 0.40261m
+105298/264628 CS est rem 0.2585m, est tot 0.42933m
+122317/264628 CS est rem 0.23906m, est tot 0.44453m
+141372/264628 CS est rem 0.20889m, est tot 0.44847m
+159517/264628 CS est rem 0.18001m, est tot 0.45319m
+177475/264628 CS est rem 0.15078m, est tot 0.45781m
+194128/264628 CS est rem 0.1237m, est tot 0.46433m
+211327/264628 CS est rem 0.094454m, est tot 0.46893m
+227227/264628 CS est rem 0.067213m, est tot 0.47555m
+242050/264628 CS est rem 0.041297m, est tot 0.48401m
+261058/264628 CS est rem 0.0065153m, est tot 0.48282m
+done. exiting ...
+22-Nov-2016 18:32:10
+22-Nov-2016 18:39:39
+-> ComputeSimilarities called.
+   Input directory: C:\ecen5322\AudioClassification\Output/
+         (writing log-file to input directory)
+   Output file: C:\ecen5322\AudioClassification\Output\DistanceMatrix.txt
+start computing distances ...
+15763/264628 CS est rem 0m, est tot 0m
+37153/264628 CS est rem 0.21047m, est tot 0.24485m
+59508/264628 CS est rem 0.23698m, est tot 0.30573m
+81313/264628 CS est rem 0.23249m, est tot 0.33562m
+102463/264628 CS est rem 0.21762m, est tot 0.35512m
+124443/264628 CS est rem 0.19274m, est tot 0.36383m
+146773/264628 CS est rem 0.16478m, est tot 0.36999m
+168048/264628 CS est rem 0.13755m, est tot 0.37687m
+189937/264628 CS est rem 0.10743m, est tot 0.3806m
+211978/264628 CS est rem 0.076196m, est tot 0.38297m
+233503/264628 CS est rem 0.045371m, est tot 0.38574m
+254758/264628 CS est rem 0.01449m, est tot 0.38845m
+done. exiting ...
+22-Nov-2016 18:40:04
+23-Nov-2016 10:52:22
+-> ComputeSimilarities called.
+   Input directory: C:\ecen5322\AudioClassification\Output/
+         (writing log-file to input directory)
+   Output file: C:\ecen5322\AudioClassification\Output\DistanceMatrix.txt
+start computing distances ...
+14350/264628 CS est rem 0m, est tot 0m
+34447/264628 CS est rem 0.23145m, est tot 0.26608m
+54352/264628 CS est rem 0.26699m, est tot 0.336m
+74592/264628 CS est rem 0.2634m, est tot 0.36678m
+93808/264628 CS est rem 0.25086m, est tot 0.38862m
+114202/264628 CS est rem 0.22605m, est tot 0.39767m
+134833/264628 CS est rem 0.19779m, est tot 0.40326m
+155817/264628 CS est rem 0.16731m, est tot 0.40689m
+176638/264628 CS est rem 0.13621m, est tot 0.40965m
+196732/264628 CS est rem 0.10614m, est tot 0.4137m
+217350/264628 CS est rem 0.074208m, est tot 0.41535m
+237367/264628 CS est rem 0.04307m, est tot 0.41807m
+258412/264628 CS est rem 0.0098364m, est tot 0.41869m
+done. exiting ...
+23-Nov-2016 10:52:49
+23-Nov-2016 12:04:28
+-> ComputeSimilarities called.
+   Input directory: C:\ecen5322\AudioClassification\Output/
+         (writing log-file to input directory)
+   Output file: C:\ecen5322\AudioClassification\Output\DistanceMatrix.txt
+start computing distances ...
+16468/264628 CS est rem 0m, est tot 0m
+37153/264628 CS est rem 0.21047m, est tot 0.24485m
+57582/264628 CS est rem 0.2444m, est tot 0.31237m
+78273/264628 CS est rem 0.24181m, est tot 0.34337m
+100177/264628 CS est rem 0.22316m, est tot 0.3591m
+121248/264628 CS est rem 0.20079m, est tot 0.37058m
+142857/264628 CS est rem 0.17403m, est tot 0.3782m
+163603/264628 CS est rem 0.14698m, est tot 0.385m
+184428/264628 CS est rem 0.11823m, est tot 0.3901m
+206658/264628 CS est rem 0.085763m, est tot 0.39149m
+227772/264628 CS est rem 0.054908m, est tot 0.39423m
+249052/264628 CS est rem 0.023341m, est tot 0.39652m
+done. exiting ...
+23-Nov-2016 12:04:55
+23-Nov-2016 12:35:24
+-> ComputeSimilarities called.
+   Input directory: C:\ecen5322\AudioClassification\Output/
+         (writing log-file to input directory)
+   Output file: C:\ecen5322\AudioClassification\Output\DistanceMatrix.txt
+start computing distances ...
+16468/264628 CS est rem 0m, est tot 0m
+37153/264628 CS est rem 0.21047m, est tot 0.24485m
+59508/264628 CS est rem 0.23608m, est tot 0.30457m
+81313/264628 CS est rem 0.23191m, est tot 0.33477m
+103032/264628 CS est rem 0.21443m, est tot 0.35115m
+124443/264628 CS est rem 0.19215m, est tot 0.36273m
+145312/264628 CS est rem 0.16764m, est tot 0.37181m
+167167/264628 CS est rem 0.13862m, est tot 0.37638m
+189162/264628 CS est rem 0.10826m, est tot 0.37961m
+210343/264628 CS est rem 0.07877m, est tot 0.38398m
+231732/264628 CS est rem 0.048134m, est tot 0.3872m
+253000/264628 CS est rem 0.017141m, est tot 0.39006m
+done. exiting ...
+23-Nov-2016 12:35:49
+24-Nov-2016 08:10:29
+-> ComputeSimilarities called.
+   Input directory: C:\ecen5322\AudioClassification\Output/
+         (writing log-file to input directory)
+   Output file: C:\ecen5322\AudioClassification\Output\DistanceMatrix.txt
+start computing distances ...
+17172/264628 CS est rem 0m, est tot 0m
+37827/264628 CS est rem 0.20611m, est tot 0.24049m
+59508/264628 CS est rem 0.23429m, est tot 0.30226m
+80707/264628 CS est rem 0.23383m, est tot 0.33643m
+101893/264628 CS est rem 0.21836m, est tot 0.35508m
+123382/264628 CS est rem 0.19527m, est tot 0.36585m
+145312/264628 CS est rem 0.16807m, est tot 0.37276m
+167167/264628 CS est rem 0.13923m, est tot 0.37803m
+189550/264628 CS est rem 0.10789m, est tot 0.38029m
+210672/264628 CS est rem 0.078503m, est tot 0.38501m
+231217/264628 CS est rem 0.049147m, est tot 0.38925m
+252693/264628 CS est rem 0.017652m, est tot 0.39135m
+done. exiting ...
+24-Nov-2016 08:10:54
+25-Nov-2016 17:03:26
+-> ComputeSimilarities called.
+   Input directory: C:\ecen5322\AudioClassification\Output/
+         (writing log-file to input directory)
+   Output file: C:\ecen5322\AudioClassification\Output\DistanceMatrix.txt
+start computing distances ...
+14350/264628 CS est rem 0m, est tot 0m
+33088/264628 CS est rem 0.24238m, est tot 0.27701m
+51750/264628 CS est rem 0.28389m, est tot 0.3529m
+70252/264628 CS est rem 0.28606m, est tot 0.38944m
+89100/264628 CS est rem 0.27088m, est tot 0.40838m
+108108/264628 CS est rem 0.24885m, est tot 0.42072m
+127078/264628 CS est rem 0.22325m, est tot 0.4295m
+145800/264628 CS est rem 0.19611m, est tot 0.43674m
+164500/264628 CS est rem 0.16707m, est tot 0.44155m
+183222/264628 CS est rem 0.13688m, est tot 0.44495m
+202147/264628 CS est rem 0.10577m, est tot 0.44796m
+220968/264628 CS est rem 0.074354m, est tot 0.45066m
+239428/264628 CS est rem 0.043171m, est tot 0.45333m
+258187/264628 CS est rem 0.011072m, est tot 0.45482m
+done. exiting ...
+25-Nov-2016 17:03:55
+27-Nov-2016 09:29:18
+-> ComputeSimilarities called.
+   Input directory: C:\ecen5322\AudioClassification\Output/
+         (writing log-file to input directory)
+   Output file: C:\ecen5322\AudioClassification\Output\DistanceMatrix.txt
+start computing distances ...
+16468/264628 CS est rem 0m, est tot 0m
+35802/264628 CS est rem 0.21472m, est tot 0.24831m
+55647/264628 CS est rem 0.25428m, est tot 0.32199m
+76437/264628 CS est rem 0.24941m, est tot 0.35072m
+97875/264628 CS est rem 0.23072m, est tot 0.36613m
+118558/264628 CS est rem 0.20888m, est tot 0.37841m
+139878/264628 CS est rem 0.18116m, est tot 0.38428m
+159058/264628 CS est rem 0.15746m, est tot 0.3947m
+180373/264628 CS est rem 0.12663m, est tot 0.39773m
+201793/264628 CS est rem 0.094958m, est tot 0.39991m
+222142/264628 CS est rem 0.06475m, est tot 0.40329m
+243100/264628 CS est rem 0.03298m, est tot 0.40538m
+263962/264628 CS est rem 0.0010259m, est tot 0.40702m
+done. exiting ...
+27-Nov-2016 09:29:45
+27-Nov-2016 09:35:28
+-> ComputeSimilarities called.
+   Input directory: C:\ecen5322\AudioClassification\Output/
+         (writing log-file to input directory)
+   Output file: C:\ecen5322\AudioClassification\Output\DistanceMatrix.txt
+start computing distances ...
+15057/264628 CS est rem 0m, est tot 0m
+34447/264628 CS est rem 0.22623m, est tot 0.26008m
+55000/264628 CS est rem 0.25906m, est tot 0.32703m
+74592/264628 CS est rem 0.25942m, est tot 0.36124m
+93808/264628 CS est rem 0.24801m, est tot 0.38421m
+114202/264628 CS est rem 0.22399m, est tot 0.39405m
+134833/264628 CS est rem 0.19604m, est tot 0.39969m
+153943/264628 CS est rem 0.17058m, est tot 0.40782m
+174528/264628 CS est rem 0.14009m, est tot 0.41144m
+194128/264628 CS est rem 0.11094m, est tot 0.41641m
+214542/264628 CS est rem 0.079219m, est tot 0.41854m
+236187/264628 CS est rem 0.044939m, est tot 0.41812m
+256500/264628 CS est rem 0.0129m, est tot 0.41993m
+done. exiting ...
+27-Nov-2016 09:35:56
+27-Nov-2016 15:14:57
+-> ComputeSimilarities called.
+   Input directory: C:\ecen5322\AudioClassification\Output/
+         (writing log-file to input directory)
+   Output file: C:\ecen5322\AudioClassification\Output\DistanceMatrix.txt
+start computing distances ...
+15057/264628 CS est rem 0m, est tot 0m
+32407/264628 CS est rem 0.24633m, est tot 0.28071m
+53703/264628 CS est rem 0.26696m, est tot 0.33493m
+73975/264628 CS est rem 0.26444m, est tot 0.36705m
+93223/264628 CS est rem 0.25138m, est tot 0.3881m
+112000/264628 CS est rem 0.2321m, est tot 0.40241m
+132273/264628 CS est rem 0.2043m, est tot 0.40846m
+151102/264628 CS est rem 0.17864m, est tot 0.4164m
+171532/264628 CS est rem 0.14798m, est tot 0.42064m
+191857/264628 CS est rem 0.11616m, est tot 0.42241m
+210672/264628 CS est rem 0.087041m, est tot 0.42688m
+230698/264628 CS est rem 0.054964m, est tot 0.42866m
+249577/264628 CS est rem 0.024611m, est tot 0.43268m
+done. exiting ...
+27-Nov-2016 15:15:25
+30-Nov-2016 09:28:54
+-> ComputeSimilarities called.
+   Input directory: C:\ecen5322\AudioClassification\Output/
+         (writing log-file to input directory)
+   Output file: C:\ecen5322\AudioClassification\Output\DistanceMatrix.txt
+start computing distances ...
+13642/264628 CS est rem 0m, est tot 0m
+29673/264628 CS est rem 0.26601m, est tot 0.2996m
+43848/264628 CS est rem 0.34486m, est tot 0.41335m
+58867/264628 CS est rem 0.35956m, est tot 0.46242m
+72738/264628 CS est rem 0.36275m, est tot 0.50025m
+89692/264628 CS est rem 0.33523m, est tot 0.50711m
+103032/264628 CS est rem 0.32267m, est tot 0.5284m
+120712/264628 CS est rem 0.28595m, est tot 0.5258m
+138375/264628 CS est rem 0.25115m, est tot 0.52641m
+154882/264628 CS est rem 0.21904m, est tot 0.52815m
+173250/264628 CS est rem 0.18076m, est tot 0.52347m
+188773/264628 CS est rem 0.15163m, est tot 0.52898m
+203902/264628 CS est rem 0.12239m, est tot 0.53333m
+223587/264628 CS est rem 0.081647m, est tot 0.52644m
+240975/264628 CS est rem 0.046958m, est tot 0.52534m
+255850/264628 CS est rem 0.017577m, est tot 0.52982m
+done. exiting ...
+30-Nov-2016 09:29:28
+07-Dec-2016 16:59:19
+-> ComputeSimilarities called.
+   Input directory: C:\ecen5322\AudioClassification\Output/
+         (writing log-file to input directory)
+   Output file: C:\ecen5322\AudioClassification\Output\DistanceMatrix.txt
+start computing distances ...
+17296/291466 CS est rem 0m, est tot 0m
+39061/291466 CS est rem 0.21877m, est tot 0.25262m
+60606/291466 CS est rem 0.2599m, est tot 0.32813m
+81838/291466 CS est rem 0.26282m, est tot 0.36543m
+103275/291466 CS est rem 0.24866m, est tot 0.38512m
+124713/291466 CS est rem 0.22808m, est tot 0.39865m
+145936/291466 CS est rem 0.20438m, est tot 0.40933m
+167215/291466 CS est rem 0.17783m, est tot 0.41716m
+188181/291466 CS est rem 0.15008m, est tot 0.42352m
+209251/291466 CS est rem 0.12064m, est tot 0.42767m
+230391/291466 CS est rem 0.090299m, est tot 0.43092m
+251563/291466 CS est rem 0.059402m, est tot 0.43388m
+272745/291466 CS est rem 0.028011m, est tot 0.43608m
+done. exiting ...
+07-Dec-2016 16:59:48
+07-Dec-2016 17:08:41
+-> ComputeSimilarities called.
+   Input directory: C:\ecen5322\AudioClassification\Output/
+         (writing log-file to input directory)
+   Output file: C:\ecen5322\AudioClassification\Output\DistanceMatrix.txt
+start computing distances ...
+15785/265356 CS est rem 0m, est tot 0m
+37206/265356 CS est rem 0.21239m, est tot 0.24703m
+57021/265356 CS est rem 0.25215m, est tot 0.32116m
+77778/265356 CS est rem 0.24808m, est tot 0.35095m
+97446/265356 CS est rem 0.23603m, est tot 0.37301m
+116571/265356 CS est rem 0.21838m, est tot 0.38947m
+136578/265356 CS est rem 0.19325m, est tot 0.39819m
+156545/265356 CS est rem 0.16599m, est tot 0.40479m
+172260/265356 CS est rem 0.14722m, est tot 0.41961m
+185156/265356 CS est rem 0.13333m, est tot 0.44114m
+201810/265356 CS est rem 0.10783m, est tot 0.45028m
+218385/265356 CS est rem 0.080994m, est tot 0.45756m
+234480/265356 CS est rem 0.054079m, est tot 0.46476m
+250650/265356 CS est rem 0.026083m, est tot 0.47061m
+done. exiting ...
+07-Dec-2016 17:09:14
+07-Dec-2016 17:16:04
+-> ComputeSimilarities called.
+   Input directory: C:\ecen5322\AudioClassification\Output/
+         (writing log-file to input directory)
+   Output file: C:\ecen5322\AudioClassification\Output\DistanceMatrix.txt
+start computing distances ...
+14370/265356 CS est rem 0m, est tot 0m
+33816/265356 CS est rem 0.23359m, est tot 0.26771m
+52478/265356 CS est rem 0.27889m, est tot 0.34764m
+70980/265356 CS est rem 0.28027m, est tot 0.38261m
+89828/265356 CS est rem 0.26716m, est tot 0.40388m
+108836/265356 CS est rem 0.24493m, est tot 0.41525m
+127281/265356 CS est rem 0.2212m, est tot 0.42511m
+144078/265356 CS est rem 0.20036m, est tot 0.43838m
+161160/265356 CS est rem 0.17629m, est tot 0.44894m
+177785/265356 CS est rem 0.15098m, est tot 0.45749m
+196721/265356 CS est rem 0.11875m, est tot 0.45912m
+215901/265356 CS est rem 0.085841m, est tot 0.46058m
+235953/265356 CS est rem 0.050886m, est tot 0.45922m
+256841/265356 CS est rem 0.014653m, est tot 0.45658m
+done. exiting ...
+07-Dec-2016 17:16:34
+07-Dec-2016 17:28:38
+-> ComputeSimilarities called.
+   Input directory: C:\ecen5322\AudioClassification\Output/
+         (writing log-file to input directory)
+   Output file: C:\ecen5322\AudioClassification\Output\DistanceMatrix.txt
+start computing distances ...
+14370/265356 CS est rem 0m, est tot 0m
+33816/265356 CS est rem 0.23003m, est tot 0.26362m
+53781/265356 CS est rem 0.26842m, est tot 0.33665m
+72846/265356 CS est rem 0.27185m, est tot 0.37471m
+93365/265356 CS est rem 0.25234m, est tot 0.38932m
+113831/265356 CS est rem 0.2281m, est tot 0.39945m
+134028/265356 CS est rem 0.20184m, est tot 0.40783m
+154200/265356 CS est rem 0.17271m, est tot 0.41229m
+174405/265356 CS est rem 0.1426m, est tot 0.41604m
+194103/265356 CS est rem 0.1129m, est tot 0.42045m
+214316/265356 CS est rem 0.081247m, est tot 0.42239m
+234728/265356 CS est rem 0.048899m, est tot 0.42364m
+254625/265356 CS est rem 0.017222m, est tot 0.42582m
+done. exiting ...
+07-Dec-2016 17:29:06
+07-Dec-2016 17:38:19
+-> ComputeSimilarities called.
+   Input directory: C:\ecen5322\AudioClassification\Output/
+         (writing log-file to input directory)
+   Output file: C:\ecen5322\AudioClassification\Output\DistanceMatrix.txt
+start computing distances ...
+13661/265356 CS est rem 0m, est tot 0m
+33135/265356 CS est rem 0.24092m, est tot 0.27529m
+51825/265356 CS est rem 0.2822m, est tot 0.35069m
+69731/265356 CS est rem 0.28858m, est tot 0.39145m
+88046/265356 CS est rem 0.27638m, est tot 0.41362m
+105461/265356 CS est rem 0.25901m, est tot 0.42985m
+121440/265356 CS est rem 0.24257m, est tot 0.44726m
+139103/265356 CS est rem 0.21675m, est tot 0.45555m
+158403/265356 CS est rem 0.18428m, est tot 0.45719m
+177785/265356 CS est rem 0.15136m, est tot 0.45866m
+195978/265356 CS est rem 0.12068m, est tot 0.46156m
+211400/265356 CS est rem 0.095581m, est tot 0.47006m
+228500/265356 CS est rem 0.065864m, est tot 0.4742m
+247778/265356 CS est rem 0.031372m, est tot 0.47356m
+done. exiting ...
+07-Dec-2016 17:38:50
+07-Dec-2016 17:59:48
+-> ComputeSimilarities called.
+   Input directory: C:\ecen5322\AudioClassification\Output/
+         (writing log-file to input directory)
+   Output file: C:\ecen5322\AudioClassification\Output\DistanceMatrix.txt
+start computing distances ...
+17900/265356 CS est rem 0m, est tot 0m
+39228/265356 CS est rem 0.19816m, est tot 0.23253m
+60236/265356 CS est rem 0.23234m, est tot 0.30057m
+81435/265356 CS est rem 0.22997m, est tot 0.33179m
+102621/265356 CS est rem 0.21557m, est tot 0.35151m
+123578/265356 CS est rem 0.1948m, est tot 0.36459m
+144570/265356 CS est rem 0.17015m, est tot 0.37379m
+165675/265356 CS est rem 0.14274m, est tot 0.37998m
+186750/265356 CS est rem 0.11411m, est tot 0.3852m
+208065/265356 CS est rem 0.08397m, est tot 0.38892m
+229310/265356 CS est rem 0.053259m, est tot 0.39206m
+250650/265356 CS est rem 0.021866m, est tot 0.39452m
+done. exiting ...
+07-Dec-2016 18:00:14
+07-Dec-2016 18:06:07
+-> ComputeSimilarities called.
+   Input directory: C:\ecen5322\AudioClassification\Output/
+         (writing log-file to input directory)
+   Output file: C:\ecen5322\AudioClassification\Output\DistanceMatrix.txt
+start computing distances ...
+17196/265356 CS est rem 0m, est tot 0m
+38555/265356 CS est rem 0.20222m, est tot 0.23659m
+60236/265356 CS est rem 0.23234m, est tot 0.30057m
+81435/265356 CS est rem 0.23174m, est tot 0.33434m
+102621/265356 CS est rem 0.21681m, est tot 0.35353m
+124110/265356 CS est rem 0.19442m, est tot 0.36526m
+145551/265356 CS est rem 0.16891m, est tot 0.37412m
+166121/265356 CS est rem 0.14297m, est tot 0.38229m
+186750/265356 CS est rem 0.11488m, est tot 0.38779m
+208065/265356 CS est rem 0.0844m, est tot 0.39091m
+229310/265356 CS est rem 0.053546m, est tot 0.39417m
+250650/265356 CS est rem 0.021973m, est tot 0.39645m
+done. exiting ...
+07-Dec-2016 18:06:33
+08-Dec-2016 16:36:28
+-> ComputeSimilarities called.
+   Input directory: C:\ecen5322\AudioClassification\Output/
+         (writing log-file to input directory)
+   Output file: C:\ecen5322\AudioClassification\Output\DistanceMatrix.txt
+start computing distances ...
+16555/291466 CS est rem 0m, est tot 0m
+35496/291466 CS est rem 0.25165m, est tot 0.28655m
+54450/291466 CS est rem 0.3004m, est tot 0.36941m
+74655/291466 CS est rem 0.29874m, est tot 0.40161m
+95215/291466 CS est rem 0.2818m, est tot 0.41852m
+115938/291466 CS est rem 0.25785m, est tot 0.42817m
+137176/291466 CS est rem 0.22964m, est tot 0.43381m
+156526/291466 CS est rem 0.2052m, est tot 0.44322m
+177463/291466 CS est rem 0.17449m, est tot 0.4461m
+197071/291466 CS est rem 0.14644m, est tot 0.45217m
+217161/291466 CS est rem 0.11628m, est tot 0.45613m
+237838/291466 CS est rem 0.084205m, est tot 0.45764m
+253516/291466 CS est rem 0.060932m, est tot 0.46796m
+271765/291466 CS est rem 0.031963m, est tot 0.47285m
+290905/291466 CS est rem 0.00091665m, est tot 0.4754m
+done. exiting ...
+08-Dec-2016 16:36:59
+08-Dec-2016 16:53:28
+-> ComputeSimilarities called.
+   Input directory: C:\ecen5322\AudioClassification\Output/
+         (writing log-file to input directory)
+   Output file: C:\ecen5322\AudioClassification\Output\DistanceMatrix.txt
+start computing distances ...
+16555/291466 CS est rem 0m, est tot 0m
+36925/291466 CS est rem 0.23158m, est tot 0.26518m
+57196/291466 CS est rem 0.2752m, est tot 0.34239m
+77281/291466 CS est rem 0.28149m, est tot 0.38305m
+96466/291466 CS est rem 0.27532m, est tot 0.41152m
+117711/291466 CS est rem 0.25102m, est tot 0.42107m
+138838/291466 CS est rem 0.22445m, est tot 0.42862m
+159625/291466 CS est rem 0.19659m, est tot 0.43461m
+180310/291466 CS est rem 0.16793m, est tot 0.44032m
+200941/291466 CS est rem 0.13809m, est tot 0.4446m
+221715/291466 CS est rem 0.107m, est tot 0.4471m
+242011/291466 CS est rem 0.07642m, est tot 0.45038m
+263025/291466 CS est rem 0.044099m, est tot 0.45191m
+285025/291466 CS est rem 0.0099824m, est tot 0.45165m
+done. exiting ...
+08-Dec-2016 16:53:57
